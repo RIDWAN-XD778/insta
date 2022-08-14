@@ -24,7 +24,7 @@
 
 <h3 align="left">Harga License :</h3>
 
-- 1 Minggu : 10k
+- 1 Minggu : 25k
 
 - 1 Bulan    : 50k
 
