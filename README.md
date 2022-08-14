@@ -1,4 +1,3 @@
-# insta
 
 <h3 align="left">Cara Install Script :</h3>
 
@@ -17,8 +16,8 @@
             
 <h3 align="left">Cara Menjalankan Script :</h3>
        
-       $ git clone https://github.com/ridwan-xd224/bo
-       $ cd bo
+       $ git clone https://github.com/RIDWAN-XD778/insta
+       $ cd insta
        $ git pull
        $ python run.py
 
