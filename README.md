@@ -28,6 +28,7 @@
 - 1 Bulan    : 50k
 
 - Permanent + Open Source : 100k
+- buy lisem di https://wa.me/6283862287464
 
 <h3 align="left">Contack with me :</h3>
 
