@@ -23,9 +23,9 @@
 
 <h3 align="left">Harga License :</h3>
 
-- 1 Minggu : 25k
+- 1 Minggu : 50k
 
-- 1 Bulan    : 50k
+- 1 Bulan    : 75k
 
 - Permanent + Open Source : 100k
 - buy lisem di https://wa.me/6283862287464
